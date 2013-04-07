@@ -20,13 +20,3 @@ gen
 *.tar
 *.rar
 *.zip
-
-# non interested projects
-ActionBarDemo/
-android_framework/
-Contacts/
-Contacts_new/
-pedometer/
-Phone/
-mydemo/
-OldFriend/
