@@ -1,0 +1,32 @@
+*.class
+
+# Package Files #
+*.dex
+*.war
+*.ear
+*.apk
+bin/
+bin
+gen/
+release/
+release
+gen
+.metadata/
+.metadata
+*.project
+
+# package
+*.gz
+*.tar
+*.rar
+*.zip
+
+# non interested projects
+ActionBarDemo/
+android_framework/
+Contacts/
+Contacts_new/
+pedometer/
+Phone/
+mydemo/
+OldFriend/
